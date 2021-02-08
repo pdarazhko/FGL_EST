@@ -1,3 +1,4 @@
+```
 public class Solution {
     public int LongestPalindrome(string s) 
         {
@@ -19,3 +20,4 @@ public class Solution {
             return count;
         }
 }
+```
