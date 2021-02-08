@@ -1,4 +1,5 @@
-```public class Solution {
+```
+public class Solution {
     public int LongestPalindrome(string s) 
         {   
             int result = 0;
