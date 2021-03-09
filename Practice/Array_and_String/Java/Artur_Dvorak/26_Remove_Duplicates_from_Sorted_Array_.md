@@ -1,4 +1,4 @@
-class Solution {
+```class Solution {
     public int removeDuplicates(int[] nums) {
         int i = 1;
 
@@ -12,3 +12,4 @@ class Solution {
         return i;
     }
 }
+```
